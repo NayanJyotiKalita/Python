@@ -1,0 +1,36 @@
+Exponent using while loop
+
+Complete the following code snippet in order to find the exponent, i.e. the number of times base should be multiplied by itself to get num.
+
+num=16
+base=4
+cnt=0
+while(num>1):
+  ?????
+  cnt+=1
+print(cnt)
+
+
+Which of the options can be used in place of blank(?????) in order to get the power value?
+
+An image to illustrate what exponent and base number mean:
+
+
+
+Note - Assume that we can always get num by multiplying a base by 1 positive number of times.
+
+Choose the correct answer from below:
+
+num -= base
+
+num /= base
+
+num *= base
+
+num += base
+
+---
+
+Answer
+
+*2*
